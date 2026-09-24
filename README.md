@@ -8,7 +8,7 @@ action items — written in my own words as I work through the book.
 - Each folder has the summary (`.md`) and any supporting images
 
 ## Books
-- [Outlive — Peter Attia](./Outlive/Outlive.md)
+- [Outlive — Peter Attia](./outlive/outlive.md)
 
 ## A note on these summaries
 These are my own condensed notes and **cannot substitute for the books
