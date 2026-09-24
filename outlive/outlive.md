@@ -38,8 +38,8 @@ Attia opens with a recurring dream from his years as a surgical trainee: standin
 - His key insight: medicine is organized around the dramatic acute battles while largely losing the slow war that determines how most of us actually die. Because slow death develops over long timescales, there's a wide window to intervene—if you're paying attention early enough.
 
 <p>
-  <img src="Images/fast-death.png" alt="Fast death" width="48%">
-  <img src="Images/slow-death.png" alt="Slow death" width="48%">
+  <img src="./images/fast-death.png" alt="Fast death" width="48%">
+  <img src="./images/slow-death.png" alt="Slow death" width="48%">
 </p>
 
 ### The Four Horsemen
@@ -87,7 +87,7 @@ A central lesson: don't rely on a normal fasting glucose to declare yourself saf
 **How to become insulin sensitive**
 Broadly, you improve insulin sensitivity by reducing the glucose load hitting your blood and helping cells handle it more efficiently: cut refined carbs and sugar, prioritize protein/fat/fiber, walk after meals, build muscle through strength training, do Zone 2 cardio, sleep well, manage stress, and lose visceral fat. The highest-leverage habits are cutting refined carbs/sugar, walking after meals, and building muscle while sleeping well. We'll discuss each of these in depth in the upcoming chapters on Exercise, Nutrition, and Sleep.
 
-<img src="Images/wake-up-call.png" alt="Wake-up call" width="50%">
+<img src="./images/wake-up-call.png" alt="Wake-up call" width="50%">
 
 ### The Long Game
 
@@ -95,7 +95,7 @@ The chapter's thesis: longevity requires a fundamentally different mindset—**a
 
 Attia also signals early that this isn't a purely clinical book: he hints that emotional health is inseparable from longevity—that living longer is pointless if you're not living well—a thread he pays off in the final chapter.
 
-<img src="Images/long-game.png" alt="The long game" width="50%">
+<img src="./images/long-game.png" alt="The long game" width="50%">
 
 ---
 
@@ -121,7 +121,7 @@ Medicine 3.0 is not a rejection of Medicine 2.0's tools, but a different *strate
 
 **An individual's responsibility:** Medicine 3.0 changes the patient's role. It demands a more **active, informed, engaged individual**—someone who participates in their own long-term health strategy rather than passively showing up only when something breaks.
 
-<img src="Images/proposal.png" alt="The proposal of Medicine 3.0" width="50%">
+<img src="./images/proposal.png" alt="The proposal of Medicine 3.0" width="50%">
 
 ### Attacking Disease One at a Time Doesn't Address the Root Cause
 
@@ -129,7 +129,7 @@ Attia makes a striking point: even *completely curing* a single Horseman would a
 
 This leads to his key idea: **aging itself is the single biggest risk factor** shared by all four chronic diseases. If the underlying processes of aging could be slowed, all of the Horsemen could be delayed together. Medicine 3.0 leans into this—targeting the shared soil, not just the individual weeds.
 
-<img src="Images/attack-all-together.png" alt="Attacking the diseases together at the root" width="50%">
+<img src="./images/attack-all-together.png" alt="Attacking the diseases together at the root" width="50%">
 
 ### Bottom Line
 
@@ -159,13 +159,13 @@ The objective isn't just to live longer—it's to live longer *and better*: maxi
 
 The objective is **personal**—your goals for your own last decades define the target. This ties to the **"marginal decade"** (the final decade of life): define concretely what you want to still be able to *do* then, and work backward from it now. (The detailed version—the "Centenarian Decathlon"—comes in the later training chapters.)
 
-<img src="Images/objectives.png" alt="Objectives" width="50%">
+<img src="./images/objectives.png" alt="Objectives" width="50%">
 
 ### The Strategy
 
 Because the Four Horsemen develop silently over decades and share common upstream drivers (metabolic dysfunction and aging itself), the plan is to deeply understand each disease's mechanisms, intervene **early** on the modifiable drivers, and use data and measurement to manage risk individually. This is Medicine 3.0 turned into a plan of attack.
 
-<img src="Images/strategy.png" alt="Strategy" width="50%">
+<img src="./images/strategy.png" alt="Strategy" width="50%">
 
 ### The Tactics
 
@@ -213,7 +213,7 @@ The key insight isn't just that centenarians live longer—it's *how*. They don'
 
 For **extreme** longevity (reaching 100+), genes dominate. But for the **average** person, lifestyle matters far more than people assume. Genes set an outer boundary, but most of us aren't genetically fated either way—so our behavior determines whether we approach our potential or fall well short of it.
 
-<img src="Images/centanarian.png" alt="Centenarians" width="50%">
+<img src="./images/centanarian.png" alt="Centenarians" width="50%">
 
 ### The Takeaway That Drives the Rest of the Book
 
@@ -229,7 +229,7 @@ This is one of the book's most technical chapters, explaining the **biological m
 
 The oldest, most robust finding in longevity science: **caloric restriction**—eating meaningfully fewer calories (typically 25–40% less) *without* malnutrition—extends lifespan across yeast, worms, flies, and rodents, and reduces cancer and chronic disease. It's been replicated for nearly a century.
 
-<img src="Images/calorie-restriction.png" alt="Caloric restriction" width="50%">
+<img src="./images/calorie-restriction.png" alt="Caloric restriction" width="50%">
 
 ### Does It Work in Primates? The Monkey Studies
 
@@ -253,7 +253,7 @@ CR's benefits probably come not from calories per se but from the **nutrient-sen
 
 *Caveat on the evidence:* autophagy is a genuinely promising *mechanism*, and boosting it extends lifespan in animal models—but there is **no definitive proof that maximizing autophagy extends healthy human life**. The causal chain is established in animals and only *inferred* in people; the right amount/duration of fasting for a human benefit is unknown, and extended fasting carries costs (notably muscle loss). It's a mechanism-based bet, not a proven human result.
 
-<img src="Images/autophagy.png" alt="Autophagy" width="50%">
+<img src="./images/autophagy.png" alt="Autophagy" width="50%">
 
 ### Rapamycin: A Drug That Mimics CR
 
@@ -320,7 +320,7 @@ Fat is *meant* to be stored safely in **subcutaneous fat** (under the skin). Eve
 
 This misplaced fat is where the metabolic harm happens. A key consequence: **total body weight is misleading.** Some lean-looking people—"**TOFI**" (thin outside, fat inside)—have low subcutaneous but high visceral/ectopic fat and are metabolically sick, while some heavier people with high subcutaneous capacity are metabolically healthier. *Where* you store fat matters more than *how much* you weigh.
 
-<img src="Images/visceral-fat.png" alt="Visceral fat" width="50%">
+<img src="./images/visceral-fat.png" alt="Visceral fat" width="50%">
 
 ### The Insulin Resistance Mechanism
 
@@ -408,7 +408,7 @@ The **lipid hypothesis is settled**: Mendelian randomization (genetics) and rand
 - **Lifestyle first** — don't smoke, control blood pressure, fix metabolic health, exercise—but he's candid that lifestyle alone often **isn't enough**.
 - **Use medications earlier and more assertively** in higher-risk people—**statins, ezetimibe, PCSK9 inhibitors**—to lower particle number, treating on lifetime rather than 10-year risk.
 
-<img src="Images/prevention.png" alt="Prevention strategy" width="50%">
+<img src="./images/prevention.png" alt="Prevention strategy" width="50%">
 
 ### Takeaways — Tests People Should Do
 
@@ -459,7 +459,7 @@ A key theme tying back to Chapter 6: **metabolic dysfunction fuels cancer.**
 - **Obesity and metabolic dysfunction are major, modifiable cancer risk factors.**
 - So **improving metabolic health may lower cancer risk.** The big modifiable factors: **smoking, obesity/insulin resistance**, and (protectively) **exercise**, which has strong evidence for reducing cancer risk and recurrence.
 
-<img src="Images/metabolism.png" alt="Metabolism" width="50%">
+<img src="./images/metabolism.png" alt="Metabolism" width="50%">
 
 ### Treatment Approaches
 
@@ -495,7 +495,7 @@ Main flavors:
 
 Because **metastatic cancer is nearly impossible to cure** while **localized cancer is often curable**, the highest-leverage move is **catching cancer as early as possible.** Attia advocates **more aggressive screening than standard guidelines**—accepting some downside to catch cancer while it's still curable.
 
-<img src="Images/early-detection.png" alt="Early detection" width="50%">
+<img src="./images/early-detection.png" alt="Early detection" width="50%">
 
 ### The Immune Surveillance Angle
 
@@ -553,13 +553,13 @@ But **genes aren't destiny**: many APOE4 carriers never develop AD, and many pat
 
 Tying back to Chapter 6: AD is powerfully linked to **metabolic dysfunction and insulin resistance**—nicknamed **"type 3 diabetes."** In AD the brain becomes **insulin resistant** and **glucose metabolism is impaired**. **Type 2 diabetes roughly doubles or triples Alzheimer's risk.** Addressing glucose metabolism, inflammation, and oxidative stress is a key preventive lever.
 
-<img src="Images/metabolism.png" alt="Metabolism" width="50%">
+<img src="./images/metabolism.png" alt="Metabolism" width="50%">
 
 ### Vascular Health = Brain Health
 
 What's good for the heart is good for the brain. **Cerebrovascular disease** (the same atherosclerotic processes from Chapter 7) contributes to vascular dementia and worsens AD—so managing **blood pressure, lipids (ApoB), and cardiovascular health** protects the brain.
 
-<img src="Images/healthy-brain.png" alt="Healthy brain" width="50%">
+<img src="./images/healthy-brain.png" alt="Healthy brain" width="50%">
 
 ### Inflammation and Oxidative Stress
 
@@ -583,7 +583,7 @@ There's **no effective cure** and drugs have disappointed, so prevention is the 
 6. **Sleep quality** — prioritize good sleep.
 7. **Sauna use** — the book cites evidence that frequent sauna (roughly 4+ sessions per week at high heat, ~179°F+) is associated with a large (~65%) reduction in dementia risk.
 
-<img src="Images/early-detection.png" alt="Early detection" width="50%">
+<img src="./images/early-detection.png" alt="Early detection" width="50%">
 
 ### The Bottom Line
 
@@ -611,7 +611,7 @@ Chapter 10 opens **Part 3** of the book—the pivot from *understanding the dise
 
 Attia anchors the chapter on a strategy-vs-tactics maxim (a Sun Tzu line): roughly, *"strategy without tactics is the slowest route to victory; tactics without strategy is the noise before defeat."* This reinforces the Chapter 3 hierarchy: you need a **strategy informed by science and tailored to your personal goals**, with **specific tactics flowing from that strategy**—not random hacks.
 
-<img src="Images/guiding-principle.png" alt="Guiding principle" width="50%">
+<img src="./images/guiding-principle.png" alt="Guiding principle" width="50%">
 
 ### The Tactical Domains
 
@@ -628,7 +628,7 @@ The domains through which you can actually change your health trajectory:
 
 The chapter's signature concept (introduced here as the tactical framework for exercise, then developed in the training chapters that follow): **identify ~10 physical tasks you want to still be able to do at the end of your life**—e.g., getting up off the floor, climbing stairs, lifting a grandchild, carrying groceries—then **work backward** to determine the fitness level you need to build *now*. It makes the abstract goal of "healthspan" concrete and trainable, connecting to the **"marginal decade"** idea (the last decade of life).
 
-<img src="Images/centanarian.png" alt="Centenarian Decathlon" width="50%">
+<img src="./images/centanarian.png" alt="Centenarian Decathlon" width="50%">
 
 ### The Bottom Line
 
@@ -650,13 +650,13 @@ Exercise is the **single most powerful tool** for extending both lifespan and he
 - Moving from "**low**" to just "**average**" VO₂ max is associated with roughly a **50% reduction in mortality risk**.
 - Going from the **bottom 25th percentile to above the 75th** is associated with about a **5× reduction in mortality risk**—a **larger effect than quitting smoking**.
 
-<img src="Images/VO2_max.png" alt="VO₂ max" width="50%">
+<img src="./images/VO2_max.png" alt="VO₂ max" width="50%">
 
 ### Muscle Mass and Strength
 
 Nearly as powerful as cardiorespiratory fitness is **muscle**. The key nuance: it's not merely **muscle mass** that predicts longevity—it's **strength**, the ability to **generate force**. Preserving strength and muscle is critical for maintaining function into old age (fighting sarcopenia), so strength training is essential, not optional.
 
-<img src="Images/exercise.png" alt="Exercise" width="50%">
+<img src="./images/exercise.png" alt="Exercise" width="50%">
 
 ### Zone 2 Cardio: The Aerobic Foundation
 
@@ -722,7 +722,7 @@ These tangible goals define the fitness you need to build *now*, because capacit
 
 A **DEXA scan** provides body-composition data—**bone mineral density, muscle mass, and body-fat percentage**—useful for tracking the physical markers that matter for longevity.
 
-<img src="Images/dexa-scan.png" alt="DEXA scan" width="50%">
+<img src="./images/dexa-scan.png" alt="DEXA scan" width="50%">
 
 ### Stability as the Foundation
 
@@ -742,7 +742,7 @@ The chapter that develops the first pillar—stability—which underpins all the
 
 Stability is the essential foundation: it lets you produce force **safely**, so you can pursue strength, Zone 2, and VO₂ max training without getting hurt. The goal is to be **strong, fluid, flexible, and agile**—and to avoid the injuries that would derail all other training and shorten functional healthspan.
 
-<img src="Images/stability.png" alt="Stability" width="50%">
+<img src="./images/stability.png" alt="Stability" width="50%">
 
 ### What Stability Actually Is (the book's definition)
 
@@ -807,7 +807,7 @@ A central message: **no single diet works for everyone.** Attia is explicitly hu
 - Get the **vitamins and minerals** you need.
 - **Avoid pathogens and toxins** (e.g., E. coli, mercury, lead).
 
-<img src="Images/nutrition.png" alt="Nutrition" width="50%">
+<img src="./images/nutrition.png" alt="Nutrition" width="50%">
 
 ### The Two Questions That Matter for Any Diet
 
@@ -874,7 +874,7 @@ Attia views alcohol as a **net negative for longevity**—a purely hedonistic pl
 - It **degrades sleep quality** (ties to Chapter 16). Attia drinks early with dinner, if at all, to limit sleep disruption.
 - **Practical limits:** no more than **~7 servings per week** and **no more than 2 per day**—trending toward as little as possible.
 
-<img src="Images/alcohol.png" alt="Alcohol" width="50%">
+<img src="./images/alcohol.png" alt="Alcohol" width="50%">
 
 ### The Bottom Line
 
@@ -929,7 +929,7 @@ Evidence—including studies of people in dark caves cut off from clocks—point
 - **Sleep-deprived people badly underestimate the damage.** They *adapt* to feeling foggy and think they're fine—but once they sleep properly, the difference is immediately obvious. You're a poor judge of your own deprivation.
 - **Too much is also bad.** Sleeping in excess (roughly **11+ hours**) carries adverse effects similar to too little.
 
-<img src="Images/sleep.png" alt="Sleep" width="50%">
+<img src="./images/sleep.png" alt="Sleep" width="50%">
 
 ### What Sleep Actually Does
 
@@ -960,7 +960,7 @@ The book's final and most personal chapter—a striking shift from clinical to c
 
 Attia's central claim: **emotional health may be the most important part of healthspan of all**—because longevity is essentially **meaningless without happiness, fulfillment, and meaningful connection.** Living longer while emotionally miserable, or while damaging the people you love, isn't a win. This closes the loop on the three healthspan vectors (physical, cognitive, **emotional**).
 
-<img src="Images/emotional-health.png" alt="Emotional health" width="50%">
+<img src="./images/emotional-health.png" alt="Emotional health" width="50%">
 
 ### A Shift in Voice: From Physician to Patient
 
@@ -977,7 +977,7 @@ Here Attia stops speaking as the expert doctor and speaks as the **patient**, op
 
 Recovery came through sustained work, including therapy approaches such as **DBT (Dialectical Behavior Therapy)**—which builds skills in emotional regulation, distress tolerance, mindfulness, and relationships. His reframe: emotional health isn't something you either have or don't; it's a **skill and practice you actively work on.** Attia now spends **roughly as much time on his emotional health as on exercise**—and, because physical and emotional health are intertwined, believes that's exactly **"as it should be."**
 
-<img src="Images/healthy-brain.png" alt="Healthy brain" width="50%">
+<img src="./images/healthy-brain.png" alt="Healthy brain" width="50%">
 
 ### Prevention Applies Here Too
 
