@@ -1,5 +1,24 @@
 # Outlive — Peter Attia
 
+> *I'm starting a journey into self-help — improving myself not just by reading books, but by breaking them down and sharing what I learn. The goal is simple: get better, and pass on what's useful to the people around me. No gatekeeping, no fluff — just the ideas that actually change how you think and live.*
+
+| | |
+|---|---|
+| **Title** | Outlive: The Science and Art of Longevity |
+| **Author** | Peter Attia, MD (with Bill Gifford) |
+| **Published** | 2023 |
+| **Category** | Health · Longevity |
+
+## TL;DR
+
+- Modern medicine fights disease **reactively**; the smarter game is to prevent it **proactively** — starting decades before symptoms appear.
+- Optimize for **healthspan** (how long you stay healthy and functional), not just **lifespan** (how long you live).
+- Most deaths come from four chronic diseases — the **"Four Horsemen"**: heart disease, cancer, neurodegenerative disease, and metabolic dysfunction.
+- The highest-leverage levers you control: **exercise** (the single most powerful), **nutrition**, **sleep**, and **emotional health**.
+- **Who it's for:** anyone who wants a strategic, long-game approach to aging well instead of chasing quick fixes.
+
+## Overview
+
 *Outlive: The Science and Art of Longevity* (2023), by Dr. Peter Attia with Bill Gifford, argues that modern medicine is fighting the wrong war—reacting to disease instead of preventing it. Its central idea is the difference between *lifespan* (how long you live) and *healthspan* (how long you stay healthy and functional). The goal is not just more years, but better ones—achieved through a proactive, long-term strategy rather than emergency interventions.
 
 > **Note:** These are personal summary notes and cannot substitute for the book itself—the book contains much more detail, nuance, and context that readers will find helpful. Not affiliated with or endorsed by the author or publisher; all rights to the original work belong to them.
