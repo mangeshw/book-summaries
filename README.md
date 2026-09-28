@@ -1,7 +1,11 @@
 # Book Summaries
-Reading notes: distilled summaries, key takeaways, and action items from non-fiction books
-Each book gets its own folder containing a summary, key takeaways, and
-action items — written in my own words as I work through the book.
+Hi everyone! I'm kicking off something new — a personal journey into self-help. But
+I'm not just reading these books and moving on; I'm breaking them down, digging into
+the ideas, and sharing what I learn along the way. My goal is simple: to keep growing
+myself, and to pass on whatever proves genuinely useful to the people around me. No
+gatekeeping, no filler, no motivational fluff — just the ideas that actually shift how
+you think and how you live. This space is where I collect those distilled notes, one
+book at a time — each with a summary, key takeaways, and action items. Thanks for following along.
 
 ## How it's organized
 - One folder per book (e.g., `Outlive/`)
